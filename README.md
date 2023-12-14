@@ -6,15 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmahdi-ratil&label=Profile%20views&color=0e75b6&style=flat" alt="elmahdi-ratil" /> </p>
 
-<p align="left"> <a href="https://twitter.com/elmahdiratil" target="blank"><img src="https://img.shields.io/twitter/follow/elmahdiratil?logo=twitter&style=for-the-badge" alt="elmahdiratil" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Frent-End**
 
 - 📫 How to reach me **ElmahdiRatilDev@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Elmahdi-Ratil](https://github.com/Elmahdi-Ratil)
 
 - ⚡ Fun fact **i am funny**
 
