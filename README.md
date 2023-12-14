@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/elmahdi-ratil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elmahdi-ratil" height="30" width="40" /></a>
-<a href="https://codesandbox.com/elmahdi-ratil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="elmahdi-ratil" height="30" width="40" /></a>
 <a href="https://fb.com/madratil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madratil" height="30" width="40" /></a>
 <a href="https://instagram.com/elmahdi_ratil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elmahdi_ratil" height="30" width="40" /></a>
 <a href="https://discord.gg/378293431593598986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="378293431593598986" height="30" width="40" /></a>
