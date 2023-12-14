@@ -37,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmahdi-ratil&show_icons=true&locale=en&layout=compact" alt="elmahdi-ratil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmahdi-ratil&show_icons=true&locale=en" alt="elmahdi-ratil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmahdi-ratil&" alt="elmahdi-ratil" /></p>
