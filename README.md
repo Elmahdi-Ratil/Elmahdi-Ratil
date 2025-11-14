@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/7665cc2067f3bd683f523a630338df53c1f53d9ad2508fdcfcfa207cbabcad0d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578645842764d325a7665446378644852356158686c65446c694d7a56685a485278636d597764573577634855784e4864325a546c695a535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f3236746e333361695469316a6b6c3648362f67697068792e676966" alt="MasterHead" data-canonical-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBvM2ZveDcxdHR5aXhleDliMzVhZHRxcmYwdW5wcHUxNHd2ZTliZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" style="max-width: 100%;display: inline-block;width: 850px;height: 300px;" data-target="animated-image.originalImage">
+
 
 <h1 align="center">Hi 👋, I'm Elmahdi Ratil</h1>
 <h3 align="center">Front-End Developer</h3>
